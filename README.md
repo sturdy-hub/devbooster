@@ -1,6 +1,3 @@
-Certainly! Here's the revised README.md file for your DevBooster project with the added section about the `proxy_scraper.py` script:
-
-```markdown
 # DevBooster
 
 DevBooster is a command-line interface (CLI) tool designed to enhance development productivity. It streamlines common tasks, automates repetitive processes, and facilitates collaboration within projects.
@@ -42,9 +39,3 @@ DevBooster includes a proxy scraper tool (`proxy_scraper.py`) that automates the
    ```
 
 3. Use the proxies saved in `proxy.txt` in your applications or scripts for enhanced security and anonymity.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](link to LICENSE) file for details.
-```
-
-This addition provides users with information about the included proxy scraper tool and how to use it within the context of the DevBooster project.
